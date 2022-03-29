@@ -1,6 +1,6 @@
 public static booelan esPrimo(int n)
 {
-	int i=2;
+	int i=1;
 	if(n<1) {
 		return false;
 	}
